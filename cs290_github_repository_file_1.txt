@@ -1,0 +1,1 @@
+This is only a test for CS290 using terminal to create a GitHub repository and add some contents to it.  Cheers! 
